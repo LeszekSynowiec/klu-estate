@@ -2,20 +2,37 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer utilities {
+    .font-thin {
+        font-variation-settings: "wght" 100;
+    }
+
+    .font-black {
+        font-variation-settings: "wght" 900;
+    }
+}
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+    --background: #ffffff;
+    --foreground: #171717;
+    --primary: #4c4437;
+    --secondary: #a0967b;
+    --text: #4c4437;
+    --text-secondary: #ffffff;
+    --text-heading: #a0967b;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+    scroll-behavior: smooth;
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+    color: var(--text);
+    background: var(--background);
+    font-family: "mozaic-geo-variable", sans-serif;
+    overscroll-behavior: none;
+    scroll-behavior: smooth;
+}
+
+p {
+    @apply text-base md:text-md font-thin;
 }

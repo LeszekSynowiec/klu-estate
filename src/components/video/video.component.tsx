@@ -5,6 +5,7 @@ export function Video() {
             height="1080"
             className="w-full h-full absolute top-0 left-0 z-0 object-cover"
             preload="auto"
+            poster="/poster.webp"
             loop
             playsInline
             autoPlay

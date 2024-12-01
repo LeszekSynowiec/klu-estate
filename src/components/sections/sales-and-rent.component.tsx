@@ -32,22 +32,24 @@ export default function SalesAndRent() {
                     <>
                         <p>
                             Agencja Klu Estate specjalizuje się w profesjonalnym
-                            pośrednictwie w obrocie nieruchomościami, oferując
-                            usługi o najwyższej jakości, które są dostosowane do
-                            specyficznych potrzeb Klientów. Dzięki rozbudowanej
-                            ofercie usług dodatkowych, zapewniamy pełne wsparcie
-                            w procesie sprzedaży i wynajmu.
+                            pośrednictwie w&nbsp;obrocie nieruchomościami,
+                            oferując usługi o najwyższej jakości, które
+                            są&nbsp;dostosowane do&nbsp;specyficznych potrzeb
+                            Klientów. Dzięki rozbudowanej ofercie usług
+                            dodatkowych, zapewniamy pełne wsparcie w procesie
+                            sprzedaży i&nbsp;wynajmu.
                         </p>
                         <p>
-                            Naszym celem jest nie tylko sprawna i profesjonalna
-                            realizacja transakcji, ale także zapewnienie
-                            Klientom doskonałej jakości obsługi. Nasz zespół
-                            ekspertów dokonuje rzetelnej wyceny nieruchomości
-                            oraz przeprowadza szczegółową analizę dokumentacji,
-                            co pozwala na precyzyjne zrozumienie sytuacji
-                            prawnej i finansowej. Dodatkowo, oferujemy porady
-                            dotyczące przygotowania nieruchomości pod względem
-                            technicznym i estetycznym, co znacząco wpływa na
+                            Naszym celem jest nie tylko sprawna
+                            i&nbsp;profesjonalna realizacja transakcji, ale
+                            także zapewnienie Klientom doskonałej jakości
+                            obsługi. Nasz zespół ekspertów dokonuje rzetelnej
+                            wyceny nieruchomości oraz przeprowadza szczegółową
+                            analizę dokumentacji, co pozwala na precyzyjne
+                            zrozumienie sytuacji prawnej i&nbsp;finansowej.
+                            Dodatkowo, oferujemy porady dotyczące przygotowania
+                            nieruchomości pod względem technicznym
+                            i&nbsp;estetycznym, co znacząco wpływa na
                             atrakcyjność oferty.
                         </p>
                     </>
@@ -57,9 +59,9 @@ export default function SalesAndRent() {
                         Profesjonalnie zajmujemy się przygotowaniem
                         merytorycznym ofert, co ma kluczowe znaczenie dla
                         skutecznej promocji. Nasze działania w zakresie
-                        marketingu i sprzedaży są dynamiczne i oparte na
-                        sprawdzonych metodach, co gwarantuje efektywność i
-                        szybkie rezultaty.
+                        marketingu i&nbsp;sprzedaży są&nbsp;dynamiczne
+                        i&nbsp;oparte na sprawdzonych metodach, co gwarantuje
+                        efektywność i&nbsp;szybkie rezultaty.
                     </p>
                     <p>
                         Koszt kompleksowej obsługi jest uzależniony od wielu

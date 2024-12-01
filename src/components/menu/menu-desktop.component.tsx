@@ -1,4 +1,5 @@
 import Link from "next/link";
+import ClipboardBtn from "@/components/button/clipboard-btn";
 
 export default function MenuDesktop() {
     return (
@@ -7,9 +8,11 @@ export default function MenuDesktop() {
                 <a className="flex gap-2 " href="tel:+48512585375">
                     +48 512 585 375
                 </a>
-                <a className="flex gap-2 " href="mailto:biuro@klu-estate.pl">
-                    biuro@klu-estate.pl
-                </a>{" "}
+
+                <ClipboardBtn
+                    text="biuro@klu-estate.pl"
+                    className="text-primary text-[16px] font-black"
+                />
             </div>
             <nav className="hidden lg:flex gap-8 items-center text-xl ">
                 <div className="relative group/menu">

@@ -9,8 +9,8 @@ export default {
     theme: {
         extend: {
             fontSize: {
-                base: ["16px", "20px"],
-                md: ["24px", "28px"],
+                base: ["12px", "16px"],
+                md: ["20px", "24px"],
             },
             colors: {
                 background: "var(--background)",

@@ -23,16 +23,16 @@ function AboutContent() {
             className="text-center space-y-10"
         >
             <p>
-                Nasze biuro specjalizuje się w pośrednictwie w obrocie
+                Agencja Klu Estate specjalizuje się w pośrednictwie w obrocie
                 nieruchomościami oraz ich profesjonalnym zarządzaniu. Dzięki
                 wieloletniemu doświadczeniu i pasji do branży nieruchomości,
                 jesteśmy w stanie dostarczać Klientom usługi na najwyższym
                 poziomie. Działamy lokalnie, co pozwala nam na dokładne
-                zrozumienie specyfiki rynku oraz oczekiwań naszych Klientów.
+                zrozumienie specyfiki rynku.
             </p>
             <p>
-                Nasi Klienci mogą liczyć na kompleksowe wsparcie na każdym
-                etapie transakcji - od wstępnych oględzin nieruchomości, poprzez
+                Klienci mogą liczyć na kompleksowe wsparcie na każdym etapie
+                transakcji – od wstępnych oględzin nieruchomości, poprzez
                 negocjacje warunków umowy, aż po pomoc w finalizacji
                 dokumentacji. Naszym celem jest nie tylko skuteczna realizacja
                 zleceń, ale także budowanie długotrwałych relacji opartych na

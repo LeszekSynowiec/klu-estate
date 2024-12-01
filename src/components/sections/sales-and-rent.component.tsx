@@ -31,41 +31,41 @@ export default function SalesAndRent() {
                 <RightImgColumn img={imgData1}>
                     <>
                         <p>
-                            Nasze biuro specjalizuje się w profesjonalnym
+                            Agencja Klu Estate specjalizuje się w profesjonalnym
                             pośrednictwie w obrocie nieruchomościami, oferując
                             usługi o najwyższej jakości, które są dostosowane do
-                            specyficznych potrzeb naszych Klientów. Dzięki
-                            rozbudowanej ofercie usług dodatkowych, zapewniamy
-                            pełne wsparcie w procesie sprzedaży i wynajmu.
+                            specyficznych potrzeb Klientów. Dzięki rozbudowanej
+                            ofercie usług dodatkowych, zapewniamy pełne wsparcie
+                            w procesie sprzedaży i wynajmu.
                         </p>
                         <p>
-                            Naszym celem jest nie tylko szybka realizacja
-                            transakcji, ale także zapewnienie Klientom
-                            najwyższej jakości obsługi. Nasz zespół ekspertów
-                            dokonuje rzetelnej wyceny nieruchomości oraz
-                            przeprowadza szczegółową analizę dokumentacji, co
-                            pozwala na precyzyjne zrozumienie sytuacji prawnej i
-                            finansowej. Dodatkowo, oferujemy porady dotyczące
-                            przygotowania nieruchomości pod względem technicznym
-                            i estetycznym, co znacząco wpływa na atrakcyjność
-                            oferty.
+                            Naszym celem jest nie tylko sprawna i profesjonalna
+                            realizacja transakcji, ale także zapewnienie
+                            Klientom doskonałej jakości obsługi. Nasz zespół
+                            ekspertów dokonuje rzetelnej wyceny nieruchomości
+                            oraz przeprowadza szczegółową analizę dokumentacji,
+                            co pozwala na precyzyjne zrozumienie sytuacji
+                            prawnej i finansowej. Dodatkowo, oferujemy porady
+                            dotyczące przygotowania nieruchomości pod względem
+                            technicznym i estetycznym, co znacząco wpływa na
+                            atrakcyjność oferty.
                         </p>
                     </>
                 </RightImgColumn>
                 <LeftImgColumn img={imgData2}>
                     <p>
-                        Zajmujemy się także profesjonalnym przygotowaniem zdjęć
-                        oraz opisów, co ma kluczowe znaczenie dla skutecznej
-                        promocji. Nasze działania w zakresie marketingu i
-                        sprzedaży są dynamiczne i oparte na sprawdzonych
-                        metodach, co gwarantuje efektywność i szybkie rezultaty.
+                        Profesjonalnie zajmujemy się przygotowaniem
+                        merytorycznym ofert, co ma kluczowe znaczenie dla
+                        skutecznej promocji. Nasze działania w zakresie
+                        marketingu i sprzedaży są dynamiczne i oparte na
+                        sprawdzonych metodach, co gwarantuje efektywność i
+                        szybkie rezultaty.
                     </p>
                     <p>
-                        Koszt naszej kompleksowej obsługi jest uzależniony od
-                        wielu czynników, takich jak wartość nieruchomości, jej
-                        typ, złożoność prawna oraz liczba zaangażowanych
-                        specjalistów, takich jak fotografowie, geodeci czy
-                        prawnicy.
+                        Koszt kompleksowej obsługi jest uzależniony od wielu
+                        czynników, takich jak wartość nieruchomości, jej typ,
+                        złożoność prawna oraz liczba zaangażowanych
+                        specjalistów.
                     </p>
                 </LeftImgColumn>
             </CardWrapper>

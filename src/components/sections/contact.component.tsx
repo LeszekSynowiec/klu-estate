@@ -23,9 +23,9 @@ function ContactContent() {
             className="text-center space-y-10"
         >
             <p>
-                Zapraszamy do kontaktu z nami. Chętnie udzielimy szczegółowych
+                Zapraszamy do kontaktu. Chętnie udzielimy szczegółowych
                 informacji na temat naszej działalności oraz przedstawimy, jak
-                nasze usługi mogą odpowiadać Państwa oczekiwaniom. Nasz zespół
+                nasze usługi mogą odpowiadać Państwa oczekiwaniom. Zespół
                 ekspertów jest gotowy, aby omówić indywidualne warunki
                 współpracy i dostosować ofertę do potrzeb Klienta.
             </p>

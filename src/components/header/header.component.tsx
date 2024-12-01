@@ -4,7 +4,7 @@ import MenuDesktop from "../menu/menu-desktop.component";
 
 export default function Header() {
     return (
-        <header className="fixed transparent w-full p-4 md:px-10 z-40">
+        <header className="fixed transparent w-full p-4 md:px-10 z-40 lg:pl-0">
             <div className=" mx-auto flex justify-between items-center">
                 <div className="logo">
                     <Image

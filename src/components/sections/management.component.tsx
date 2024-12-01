@@ -33,10 +33,14 @@ function ManagementContent() {
             />
             <p className="lg:max-w-[500px]">
                 Oferujemy kompleksowe usługi zarządzania nieruchomościami, które
-                są dostosowane do potrzeb naszych Klientów. Posiadamy licencje
-                Zarządców Nieruchomości. Nasze doświadczenie i zaangażowanie w
-                zarządzanie aktywami zapewniają Klientom pełen komfort i
-                bezpieczeństwo.
+                są dostosowane do potrzeb Klientów. Posiadamy licencje Zarządców
+                Nieruchomości. Nasze doświadczenie i zaangażowanie w zarządzaniu
+                aktywami zapewniają Klientom pełen komfort i bezpieczeństwo.
+                <br />
+                <br />
+                Zarządzamy zarówno nieruchomościami mieszkalnymi i komercyjnymi,
+                gwarantując pełną transparentność w działaniu i bezpieczeństwo
+                obiektu.
             </p>
         </motion.div>
     );

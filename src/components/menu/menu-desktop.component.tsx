@@ -1,28 +1,13 @@
 import Link from "next/link";
-import Image from "next/image";
 
 export default function MenuDesktop() {
     return (
         <div className="hidden lg:block">
             <div className="flex gap-4 text-primary font-black justify-end text-right">
                 <a className="flex gap-2 " href="tel:+48512585375">
-                    {/* <Image
-                        alt="phone"
-                        className="w-6 h-6"
-                        src="/phone-icon.svg"
-                        width={24}
-                        height={24}
-                    /> */}
                     +48 512 585 375
                 </a>
                 <a className="flex gap-2 " href="mailto:biuro@klu-estate.pl">
-                    {/* <Image
-                        alt="email"
-                        className="w-6 h-6"
-                        src="/mail-icon.svg"
-                        width={24}
-                        height={24}
-                    />{" "} */}
                     biuro@klu-estate.pl
                 </a>{" "}
             </div>
